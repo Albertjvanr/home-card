@@ -125,7 +125,7 @@ An `entity object` maps an entity in Home Assistant to an overlay in the card, e
 
 | Name | Type | Default | Description |
 |------|------|---------|-------------|
-| type | string | **required** | Overlay type, see [overlay tabe](#supported-themes)
+| type | string | **required** | Overlay type, see [overlay tabel](#supported-themes)
 | entity | string | **required** | Entity id from Home Assistant, e.g. `light.downstairs`
 | state_map | map | optional | Key-value map of state (in Home Assistant) to overlay state
 
